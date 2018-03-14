@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    height: 100%;
+    height: 90%;
 }
 
 *,
@@ -12,7 +12,7 @@ html {
 body {
     display: flex;
     margin: 0;
-    height: 100%;
+    height: 95%;
 }
 
 .container {
@@ -24,7 +24,7 @@ body {
 .destination-container {
     display: flex;
     flex-flow: wrap;
-    justify-content: center;
+    justify-content: left;
 }
 
 .destination {
@@ -42,8 +42,8 @@ body {
 
 h2 {
     margin: 0;
-    transform: rotate(-45deg);
-    text-shadow: 0 0 5px #01579b;
+    transform: rotate(-60deg);
+    text-shadow: 0 0 6px #01579b;
 }
 
 #florida {
